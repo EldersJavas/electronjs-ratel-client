@@ -16,7 +16,7 @@
   "author": "zhangxunwei",
   "license": "Apache License 2.0",
   "devDependencies": {
-    "electron": "^14.0.1",
+    "electron": "^18.3.7",
     "electron-builder": "^22.11.7"
   }
 }
